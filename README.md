@@ -1,4 +1,4 @@
-### Introduction to Python in economics and finance
+### Introduction to programming python in economics and finance
 
 This is a introductory course on programming with Python, held at the 
 University of Zurich in the Macro-Finance Lecture in October 2017.
