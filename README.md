@@ -1,7 +1,7 @@
 ### Introduction to Python economics and finance
 
 This is a introductory course on programming with Python, held at the 
-University of Zurich alongside the Asset pricing lecture by Prof. F. Kübler in Feb 2017.
+University of Zurich alongside the Asset pricing lecture by Prof. F. Kübler in Feb 2018.
 
 ### Lecturer
 * [Simon Scheidegger](https://sites.google.com/site/simonscheidegger/) (University of Zurich)
