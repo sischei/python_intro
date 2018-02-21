@@ -1,4 +1,4 @@
-### Introduction to Python economics and finance
+### Introduction to Python for economics and finance students
 
 This is a introductory course on programming with Python, held at the 
 University of Zurich alongside the Asset pricing lecture by Prof. F. Kübler in Feb 2018.
